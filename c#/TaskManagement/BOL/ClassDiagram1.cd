@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BOL.ChangePassword">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAIAEAABAAA=</HashCode>
+      <FileName>ChangePassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Customer">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Department">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAIAAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.DepartmentHours">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwAAAAAAACAAAFAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>DepartmentHours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Permission">
+    <Position X="4.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAEAAECAAABAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Permission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.PresenceHours">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAAAAQAAAAACAAABAAAAAAIAAAAAgAAAAA=</HashCode>
+      <FileName>PresenceHours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Project">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAAAAACAAACAAIAAAgBAAIFhAAUAAAAEAAAAA=</HashCode>
+      <FileName>Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.User">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACwAABACAAgAAAEAAIAAgAEAAIFgACEQAgAAAAIAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.WorkerHours">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAAAAAAAAAAAAACAAABABAAAAAAAAIAgAAAAA=</HashCode>
+      <FileName>WorkerHours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Email">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Help\Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Login">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Help\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Validators.ContainsThreeDepartmentsAttribute">
+    <Position X="4.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Help\Validators\ContainsThreeDepartmentsAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Validators.DateGreaterThanAttribute">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Help\Validators\DateGreaterThanAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Validators.TodayAttribute">
+    <Position X="12.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Help\Validators\TodayAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BOL.Help.Validators.UniqueAttribute">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Help\Validators\UniqueAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
